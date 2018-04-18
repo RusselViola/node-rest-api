@@ -1,0 +1,28 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "test API Endpoint for guimidor",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RusselViola/node-rest-api.git"
+  },
+  "author": "Russel Viola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RusselViola/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/RusselViola/node-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
