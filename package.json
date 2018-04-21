@@ -19,8 +19,9 @@
   "homepage": "https://github.com/RusselViola/node-rest-api#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
     "express": "^4.16.3",
-    "mongodb": "^2.2.16"
+    "firebase": "^4.12.1"
   },
   "devDependencies": {
     "nodemon": "^1.17.3"
